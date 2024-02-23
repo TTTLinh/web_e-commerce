@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "androideat-ea112",
+  "private_key_id": "62f754c25eb81f2d76ab8dadf385824b6de0c09a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCo3hZZe2apqISJ\nZdphhY9DbCzFfpDsUugmKEThawPX1UjEIiWq2xzrnPVi8lxx2Ar60TvZMcv/426E\nVTGwaeBK1FC/YTk0MRMwm4rzRqGxSkmd9ItTDA06KQOQV9T/orBk9srB23s1k+IC\nCOYFxcpj4Zl4bHTfZb2OfS7wv0Fk55i/eTvCzQ21NnTOfixjn+KMqhw6YRlxYodJ\n3tU7G7NYvUgq17GlTgOL/7uM5j6xPKosYi4GymclkZVOzs0vYhJvjrgsCKSkhPKi\nvOR8UwqxUArnDnAYsaYzhJEblzDormGTEptw/eDsaOZWTZyTqijXc3w1xFSY0Muo\nbzAX2vDdAgMBAAECggEAUqRFmcsrhfIj0r4W7s0XPK7PBmQXdqBoXmwssYjW26TU\ntK/lcUVEVQZ+jMsBdPF/BhqpyHR3WqaqKncrFyPpkZVwYwionyM5OfuVN9OkRAiQ\nGI5aNO1b98+kn9psMiMjYnXo6pCILsNNwyMptz+B+fmpSucBF2dKKlaXR1jCHyfw\n9WkonFEWH6uINW4f8D3u6Os4sJVCjmXtmWKSxDrRI2oMZLx8ZNPbV0lbkQlwjOQ3\nCUeKsJmCYrPlDQKh6UGbxS1ZgRvF/iSMFXN7odUa6xCKH/nvxKqIyW6s3oUa2fpT\nneMA8yPhjpQI80EYuyIh9wGNa6MxpBJ+aJI3OLukfQKBgQDQ1bI8FO0oQ4NcbYCy\n/28t7k2zyr9vVGScB7ci9h4Z+8tbDZ62CVGX3H/h4cYreEq59n2hkbg6Ams2adeX\nJ6hbLIm9WrieVHf27f0wOfCMGHRVSAiU2KIzD7P03SVVqUiHAhK2/iW+PuD4RLbK\nmTZemY3gNTlKIPIExRa38mQo6wKBgQDPAZYJy9tLlMIkUebh/WTPORxjndq9vkKW\nGy24rjGnQ/fwJBaAHtp9G9CSQJF93VDj6iQVftzyJGaaJNzIskzYEZRLnRfvkLT3\nWRbjeiG1U68zk+VRFKMRwybV0KW+O7Fhdwek3VCTO8D4uuYGDsRdi22LOxnC1mfN\n8YY05nDbVwKBgQCvUafXLs5Gjh86uidgnnbM/ZG4Dc8W/KeWIhgKPsrYj32STGXg\ndwRL1G57yJogplU9t4SS3o3mDV/Kh6LZoA6DtGlSUVZKfalU4Uk8cnfSdTk820Nx\nCklpSpaOTBXqyzo7NW9WtxgilhEx/CXlAikV1B26i5Qz+mKTxI4lEVYqzwKBgF09\nOqZ48vKtM3EGjvc1mkWYVMgt3sveOcHAxixMEcNkYvYAWz4kJ4d4ks59VMsbd4bg\n/JXOCZjremdtuSCQ5vnfmSshvBlE1a4fq6aUaUByTBTwRbbqk7S5cPGXxD/WRURA\nR+ojYVqf7IBcNqV920bDOXkgCq9uwVzKsAd90FGLAoGAa0AjZS/haPK3bM6uCAeR\nr22ZKK2rL9KnYF0m/4dtPj3AzmVnyPNeUZTN2b5Z9L+tJxVBdViFqB5aID6aJB8B\naBncSiNGM2wTEu2aSI7NTHywPc9bKel+lpQH1UrD3H0MXvBePdIyeSWH3fYyDWFO\ndxKnrjPoglFmaky9BipDP0A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vinaneon@androideat-ea112.iam.gserviceaccount.com",
+  "client_id": "105733622588764451167",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vinaneon%40androideat-ea112.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
